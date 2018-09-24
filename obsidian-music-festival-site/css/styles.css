@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*----- Global Reset -----*/
+
+*{
+	margin:0;
+	padding:0;
+	outline:0;
+	border:none;
+}
+
+ul, ol {list-style: none;}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, nav, section { display: block; }
+audio, canvas, video { display: block; }
+
+/* Insert your CSS here ------ */
+
+/* IE message ------*/
+
+.ie-message {
+	background-color:white;
+	padding:20px;
+	clear:both;
+	display:none;
+}
+
+/* clearfix ------ */
+
+.clearfix:before, .clearfix:after {content: "020"; display: block; height: 0; overflow: hidden;}
+.clearfix:after {clear: both;}
+.clearfix {zoom: 1;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

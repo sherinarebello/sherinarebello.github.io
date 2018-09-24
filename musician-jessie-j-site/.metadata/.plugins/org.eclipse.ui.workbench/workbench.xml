@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="26" version="2.0">
+<workbenchAdvisor/>
+<window height="759" width="1004" x="75" y="87">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout>
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="106" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="114" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="68" y="22"/>
+<coolItem id="com.aptana.ui.globalActionSet" itemType="typeToolBarContribution" x="150" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="76" y="22"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="70" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="com.aptana.editor.js" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="com.aptana.editor.css" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="com.aptana.editor.html" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1341177986413" focus="true" label="Workspace - Web">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="com.aptana.editor.html" name="index.html" partName="index.html" title="index.html" tooltip="/Volumes/SHERINA/Sherina/FORMATIVE MATT/Sherina_Musician site/index.html" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Volumes/SHERINA/Sherina/FORMATIVE%20MATT/Sherina_Musician%20site/index.html"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="7614" selectionTopPixel="3749"/>
+</editor>
+<editor activePart="true" focus="true" id="com.aptana.editor.js" name="script.js" partName="script.js" title="script.js" tooltip="/Volumes/SHERINA/Sherina/FORMATIVE MATT/Sherina_Musician site/js/script.js" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Volumes/SHERINA/Sherina/FORMATIVE%20MATT/Sherina_Musician%20site/js/script.js"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="839" selectionTopPixel="556"/>
+</editor>
+<editor id="com.aptana.editor.css" name="main.css" partName="main.css" title="main.css" tooltip="/Volumes/SHERINA/Sherina/FORMATIVE MATT/Sherina_Musician site/styles/main.css" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Volumes/SHERINA/Sherina/FORMATIVE%20MATT/Sherina_Musician%20site/styles/main.css"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="12085" selectionTopPixel="9362"/>
+</editor>
+</editors>
+<views/>
+<perspectives activePart="com.aptana.editor.js" activePerspective="com.aptana.ui.WebPerspective">
+<perspective editorAreaTrimState="1" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="com.aptana.ui.internal.WebPerspectiveFactory" id="com.aptana.ui.WebPerspective" label="Web"/>
+<alwaysOnActionSet id="com.aptana.browser.actionSet"/>
+<alwaysOnActionSet id="com.aptana.ruby.debug.ui.RubyDebugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="com.aptana.editor.common.presentation"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="com.aptana.js.debug.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.presentation"/>
+<alwaysOnActionSet id="com.aptana.ui.globalActionSet"/>
+<alwaysOnActionSet id="com.aptana.terminal.actionSet"/>
+<show_view_action id="com.aptana.browser.views.webbrowser"/>
+<show_view_action id="com.aptana.explorer.view"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="com.aptana.ui.io.remoteview"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="com.aptana.samples.ui.SamplesView"/>
+<show_view_action id="com.aptana.snippets.ui.views.SnippetsView"/>
+<show_view_action id="com.aptana.terminal.views.terminal"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="com.aptana.webserver.ui.view"/>
+<new_wizard_action id="com.aptana.editor.php.NewPHPProjectWizard"/>
+<new_wizard_action id="com.aptana.ui.wizards.NewWebProject"/>
+<new_wizard_action id="com.aptana.ruby.core.ui.rubyProjectWizard"/>
+<new_wizard_action id="com.aptana.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<new_wizard_action id="org.radrails.rails.ui.projectWizard"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="left">
+<folder appearance="2" expanded="2">
+<page content="com.aptana.explorer.view" label="LabelNotFound"/>
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="LabelNotFound"/>
+<page content="com.aptana.ui.io.remoteview" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="894" ratioRight="298" relationship="2" relative="left">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.19966443" ratioLeft="238" ratioRight="954" relationship="2" relative="left"/>
+<info folder="true" part="terminalArea" ratio="0.75" ratioLeft="663" ratioRight="221" relationship="4" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.console.ConsoleView" label="LabelNotFound"/>
+<page content="com.aptana.terminal.views.terminal" label="LabelNotFound"/>
+<page content="org.eclipse.pde.runtime.LogView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProblemView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.TaskList" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@c6b8b0" ratio="0.75" ratioLeft="663" ratioRight="221" relationship="4" relative="left">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="com.aptana.samples.ui.SamplesView" label="LabelNotFound"/>
+<page content="com.aptana.snippets.ui.views.SnippetsView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" uri="file:/Volumes/SHERINA/Sherina/FORMATIVE%20MATT/Sherina_Musician%20site/index.html"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" uri="file:/Volumes/SHERINA/Sherina/FORMATIVE%20MATT/Sherina_Musician%20site/js/script.js"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" uri="file:/Volumes/SHERINA/Sherina/FORMATIVE%20MATT/Sherina_Musician%20site/styles/main.css"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" uri="file:/Volumes/SHERINA/Sherina/FORMATIVE%20MATT/Sherina_Musician%20site/styles/main.css"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" uri="file:/Volumes/SHERINA/Sherina/FORMATIVE%20MATT/Sherina_Musician%20site/js/script.js"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" uri="file:/Volumes/SHERINA/Sherina/FORMATIVE%20MATT/Sherina_Musician%20site/index.html"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" uri="file:/Volumes/SHERINA/Sherina/FORMATIVE%20MATT/Sherina_Musician%20site/js/script.js"/>
+</editors>
+<item historyLabel="index.html" index="0">
+<position info="not_deleted" x="4173" y="0"/>
+</item>
+<item historyLabel="main.css" index="2">
+<position info="not_deleted" x="11051" y="14"/>
+</item>
+<item historyLabel="index.html" index="0">
+<position info="not_deleted" x="4173" y="0"/>
+</item>
+<item historyLabel="main.css" index="2">
+<position info="not_deleted" x="11051" y="0"/>
+</item>
+<item historyLabel="index.html" index="0">
+<position info="not_deleted" x="4148" y="0"/>
+</item>
+<item historyLabel="main.css" index="2">
+<position info="not_deleted" x="11051" y="0"/>
+</item>
+<item historyLabel="index.html" index="0">
+<position info="not_deleted" x="4148" y="0"/>
+</item>
+<item historyLabel="script.js" index="1">
+<position info="not_deleted" x="253" y="0"/>
+</item>
+<item historyLabel="main.css" index="2">
+<position info="not_deleted" x="10993" y="0"/>
+</item>
+<item historyLabel="index.html" index="0">
+<position info="not_deleted" x="4148" y="0"/>
+</item>
+<item historyLabel="index.html" index="0">
+<position info="not_deleted" x="4283" y="0"/>
+</item>
+<item historyLabel="main.css" index="2">
+<position info="not_deleted" x="10989" y="0"/>
+</item>
+<item historyLabel="index.html" index="0">
+<position info="not_deleted" x="4283" y="0"/>
+</item>
+<item historyLabel="main.css" index="2">
+<position info="not_deleted" x="10989" y="0"/>
+</item>
+<item historyLabel="index.html" index="0">
+<position info="not_deleted" x="4068" y="10"/>
+</item>
+<item historyLabel="main.css" index="2">
+<position/>
+</item>
+<item historyLabel="index.html" index="0">
+<position info="not_deleted" x="4281" y="0"/>
+</item>
+<item historyLabel="main.css" index="2">
+<position info="not_deleted" x="11102" y="7"/>
+</item>
+<item historyLabel="index.html" index="0">
+<position info="not_deleted" x="5349" y="0"/>
+</item>
+<item historyLabel="main.css" index="2">
+<position info="not_deleted" x="10689" y="0"/>
+</item>
+<item historyLabel="index.html" index="0">
+<position info="not_deleted" x="5349" y="0"/>
+</item>
+<item historyLabel="script.js" index="1">
+<position info="not_deleted" x="253" y="0"/>
+</item>
+<item historyLabel="main.css" index="2">
+<position info="not_deleted" x="10731" y="0"/>
+</item>
+<item historyLabel="index.html" index="0">
+<position info="not_deleted" x="1691" y="0"/>
+</item>
+<item historyLabel="script.js" index="1">
+<position info="not_deleted" x="801" y="0"/>
+</item>
+<item historyLabel="main.css" index="2">
+<position info="not_deleted" x="10925" y="0"/>
+</item>
+<item historyLabel="index.html" index="0">
+<position info="not_deleted" x="5590" y="0"/>
+</item>
+<item historyLabel="main.css" index="2">
+<position info="not_deleted" x="10925" y="0"/>
+</item>
+<item historyLabel="main.css" index="2">
+<position info="not_deleted" x="11133" y="0"/>
+</item>
+<item historyLabel="index.html" index="0">
+<position info="not_deleted" x="9052" y="0"/>
+</item>
+<item historyLabel="main.css" index="2">
+<position info="not_deleted" x="11778" y="0"/>
+</item>
+<item historyLabel="index.html" index="0">
+<position info="not_deleted" x="9052" y="0"/>
+</item>
+<item historyLabel="main.css" index="3">
+<position info="not_deleted" x="11778" y="0"/>
+</item>
+<item historyLabel="script.js" index="4">
+<position info="not_deleted" x="801" y="0"/>
+</item>
+<item historyLabel="main.css" index="3">
+<position info="not_deleted" x="11778" y="0"/>
+</item>
+<item historyLabel="index.html" index="5">
+<position/>
+</item>
+<item historyLabel="main.css" index="3">
+<position info="not_deleted" x="11778" y="0"/>
+</item>
+<item historyLabel="index.html" index="5">
+<position/>
+</item>
+<item historyLabel="script.js" index="6">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="main.css" index="3">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="script.js" index="6">
+<position info="not_deleted" x="883" y="0"/>
+</item>
+<item historyLabel="index.html" index="5">
+<position/>
+</item>
+<item historyLabel="script.js" index="6">
+<position info="not_deleted" x="839" y="0"/>
+</item>
+<item historyLabel="index.html" index="5">
+<position/>
+</item>
+<item historyLabel="index.html" index="5">
+<position info="not_deleted" x="7978" y="0"/>
+</item>
+<item historyLabel="main.css" index="3">
+<position info="not_deleted" x="12544" y="0"/>
+</item>
+<item historyLabel="index.html" index="5">
+<position info="not_deleted" x="7614" y="0"/>
+</item>
+<item historyLabel="script.js" index="6">
+<position info="not_deleted" x="839" y="0"/>
+</item>
+<item historyLabel="main.css" index="3">
+<position info="not_deleted" x="12085" y="0"/>
+</item>
+<item active="true" historyLabel="script.js" index="6">
+<position info="not_deleted" x="839" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" name="main.css" tooltip="/Volumes/SHERINA/Sherina/FORMATIVE MATT/Sherina_Musician site/styles/main.css">
+<persistable uri="file:/Volumes/SHERINA/Sherina/FORMATIVE%20MATT/Sherina_Musician%20site/styles/main.css"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" name="script.js" tooltip="/Volumes/SHERINA/Sherina/FORMATIVE MATT/Sherina_Musician site/js/script.js">
+<persistable uri="file:/Volumes/SHERINA/Sherina/FORMATIVE%20MATT/Sherina_Musician%20site/js/script.js"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.systemExternalEditor" name="Jessie+J+Blues+number.jpeg" tooltip="/Volumes/UserData/sherina.mendes/Desktop/Jessie+J+Blues+number.jpeg">
+<persistable uri="file:/Volumes/UserData/sherina.mendes/Desktop/Jessie+J+Blues+number.jpeg"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="news.html" tooltip="/Volumes/SHERINA/Sherina/FORMATIVE MATT/Sherina_Musician site/news.html">
+<persistable uri="file:/Volumes/SHERINA/Sherina/FORMATIVE%20MATT/Sherina_Musician%20site/news.html"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="index.html" tooltip="/Volumes/SHERINA/Sherina/FORMATIVE MATT/Sherina_Musician site/index.html">
+<persistable uri="file:/Volumes/SHERINA/Sherina/FORMATIVE%20MATT/Sherina_Musician%20site/index.html"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="gallery.html" tooltip="/Volumes/SHERINA/Sherina/FORMATIVE MATT/Sherina_Musician site/gallery.html">
+<persistable uri="file:/Volumes/SHERINA/Sherina/FORMATIVE%20MATT/Sherina_Musician%20site/gallery.html"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" name="myscripts.js" tooltip="/Volumes/UserData/sherina.mendes/Desktop/IMAGE GALLERY/tabbed_panels_start/js/myscripts.js">
+<persistable uri="file:/Volumes/UserData/sherina.mendes/Desktop/IMAGE%20GALLERY/tabbed_panels_start/js/myscripts.js"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" name="style.css" tooltip="/Volumes/UserData/sherina.mendes/Desktop/IMAGE GALLERY/tabbed_panels_start/css/style.css">
+<persistable uri="file:/Volumes/UserData/sherina.mendes/Desktop/IMAGE%20GALLERY/tabbed_panels_start/css/style.css"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="index.html" tooltip="/Volumes/UserData/sherina.mendes/Desktop/IMAGE GALLERY/tabbed_panels_start/index.html">
+<persistable uri="file:/Volumes/UserData/sherina.mendes/Desktop/IMAGE%20GALLERY/tabbed_panels_start/index.html"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" name="style.css" tooltip="/Volumes/UserData/sherina.mendes/Desktop/SHERI-tabbed_panels/tabbed_panels_start/css/style.css">
+<persistable uri="file:/Volumes/UserData/sherina.mendes/Desktop/SHERI-tabbed_panels/tabbed_panels_start/css/style.css"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" name="myscripts.js" tooltip="/Volumes/UserData/sherina.mendes/Desktop/SHERI-tabbed_panels/tabbed_panels_start/js/myscripts.js">
+<persistable uri="file:/Volumes/UserData/sherina.mendes/Desktop/SHERI-tabbed_panels/tabbed_panels_start/js/myscripts.js"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="index.html" tooltip="/Volumes/UserData/sherina.mendes/Desktop/SHERI-tabbed_panels/tabbed_panels_start/index.html">
+<persistable uri="file:/Volumes/UserData/sherina.mendes/Desktop/SHERI-tabbed_panels/tabbed_panels_start/index.html"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="contact.html" tooltip="/Volumes/UserData/sherina.mendes/Desktop/Sherina_Musician site/contact.html">
+<persistable uri="file:/Volumes/UserData/sherina.mendes/Desktop/Sherina_Musician%20site/contact.html"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="discography.html" tooltip="/Volumes/UserData/sherina.mendes/Desktop/Sherina_Musician site/discography.html">
+<persistable uri="file:/Volumes/UserData/sherina.mendes/Desktop/Sherina_Musician%20site/discography.html"/>
+</file>
+</mruList>
+</workbench>
